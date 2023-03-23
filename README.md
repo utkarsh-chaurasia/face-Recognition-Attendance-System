@@ -1,4 +1,4 @@
-# face-Recogition-Attendance-System
+# face-Recognition-Attendance-System
 
 As an aspiring developer, I have designed and implemented a face recognition attendance system using Python. This project showcases my skills in computer vision, machine learning, and programming.
 
